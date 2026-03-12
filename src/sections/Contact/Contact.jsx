@@ -8,7 +8,7 @@ function Contact() {
       {/* Contact Links */}
       <div className={styles.contactLinks}>
         <a
-          href="mailto:pranavgami2003@gmail.com?subject=Contact%20from%20Portfolio&body=Hello%20Pranav,"
+          href="mailto:pranavgami2003@gmail.com?subject=Contact from Portfolio&body=Hello Pranav,"
           className={styles.contactLink}
         >
           <span>Email Me</span>

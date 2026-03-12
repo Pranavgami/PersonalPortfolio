@@ -10,7 +10,7 @@ function Experience() {
           <h3 className={styles.jobTitle}>Full Stack Engineer</h3>
           <h4 className={styles.companyName}>Furrisic Infotech</h4>
           <p className={styles.location}>Ahmedabad, Gujarat</p>
-          <p className={styles.duration}>20 Jan 2025 - Till Now</p>
+          <p className={styles.duration}>Jan 2025 - Till Now</p>
         </div>
 
         <div className={styles.jobDescription}>
